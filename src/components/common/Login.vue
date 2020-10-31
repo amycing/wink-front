@@ -44,7 +44,7 @@ export default {
     // 提交表单
     dataFormSubmit() {
       // TODO：登录代码逻辑待完善
-      alert("登录代码逻辑未完善")
+      alert("登录系统")
       this.$router.replace({name: 'Home'})
     }
   }

@@ -3,6 +3,8 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import "./assets/style/global.css"
+
 // 引入 element-ui
 import ElementUI from 'element-ui'
 // 引入 element-ui 的 css 文件
